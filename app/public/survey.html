@@ -25,7 +25,7 @@
         <input type="text" name="" id="photo" class="form-control" required>
         <hr>
         <br><br>
-        <section id="friend-form">
+        <form id="friend-form">
             <section class="form-group">
                 <h4>Question 1</h4>
                 <label for="item1" class="control-label">
@@ -187,13 +187,13 @@
                     </select>
                 </div>
             </section>
-        </section>
+        </form>
         <!-- Modal -->
         <div class="modal">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <!-- <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button> -->
                         <h4 class="modal-title"></h4>
                     </div>
                     <div class="modal-body text-center">
@@ -271,6 +271,7 @@
                 (!isNaN(item5)) && (!isNaN(item6)) && (!isNaN(item7)) &&
                 (!isNaN(item8)) && (!isNaN(item9)) && (!isNaN(item10))
             ) {
+                document.querySelector('#friend-form').reset();
                 // urls of the website
                 var currentURL = window.location.origin;
                 // AJAX post the data to the friends API. 
@@ -289,9 +290,9 @@
                 // Toggle modal on
                 $('.modal').modal('toggle');
             }
-            // $('#friend-form').reset();
+            
         });
-        $('#friend-form').empty();
+       
     </script>
 </body>
 

@@ -208,9 +208,229 @@ var friends = [
             1
         ]
     },
+    {
+        "name": "Laurent",
+        "photo": "https://tse2.mm.bing.net/th?id=OIP.Tcq9kBOj4XqtnAD3ZX8DnAHaHa&pid=Api&P=0&w=300&h=300",
+        "scores": [
+            2,
+            1,
+            1,
+            1,
+            5,
+            1,
+            2,
+            3,
+            3,
+            1
+        ]
+    },
+    {
+        "name": "Taurence",
+        "photo": "https://tse2.mm.bing.net/th?id=OIP.XyPRv7-kQYuSMySgtXqAYgHaE7&pid=Api&P=0&w=247&h=165",
+        "scores": [
+            2,
+            1,
+            5,
+            2,
+            5,
+            1,
+            2,
+            1,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "Cooper",
+        "photo": "https://tse4.mm.bing.net/th?id=OIP.DRtRGtaKer3W1V0b7cdRRAHaFP&pid=Api&P=0&w=217&h=154",
+        "scores": [
+            2,
+            2,
+            2,
+            2,
+            2,
+            1,
+            2,
+            2,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "Ellice",
+        "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfYPxQTY3y47nGIuj5GTaplBL5ubB4qQ6_d6n_h4HUwhAFYAlgKg",
+        "scores": [
+            2,
+            1,
+            1,
+            2,
+            5,
+            1,
+            2,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "Drake",
+        "photo": "https://tse1.mm.bing.net/th?id=OIP.bGxDCb3xwA4f4LocpjqogAHaD4&pid=Api&P=0&w=324&h=170",
+        "scores": [
+            1,
+            1,
+            1,
+            2,
+            5,
+            1,
+            2,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "Nikki",
+        "photo": "https://tse2.mm.bing.net/th?id=OIP.AGs7haHRB7cEjSlZFRH9mAHaEK&pid=Api&P=0&w=310&h=175",
+        "scores": [
+            2,
+            1,
+            1,
+            5,
+            5,
+            1,
+            2,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "Bey",
+        "photo": "https://tse4.mm.bing.net/th?id=OIP.snWu4JgcFvVkmhIw-nkjpwHaDt&pid=Api&P=0&w=332&h=167",
+        "scores": [
+            5,
+            1,
+            1,
+            2,
+            5,
+            5,
+            2,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "Mireille",
+        "photo": "https://tse2.mm.bing.net/th?id=OIP.iw20f_W52guKibxx5hkasgHaEo&pid=Api&P=0&w=270&h=170",
+        "scores": [
+            2,
+            1,
+            1,
+            2,
+            3,
+            3,
+            2,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "Alice",
+        "photo": "https://tse1.mm.bing.net/th?id=OIP.HqbAS1IZf4Vjoizf0I0NxQHaJ4&pid=Api&P=0&w=300&h=300",
+        "scores": [
+            2,
+            1,
+            1,
+            2,
+            5,
+            1,
+            2,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "Belle",
+        "photo": "https://tse2.mm.bing.net/th?id=OIP.9FZB2apkpOEP6lR_A_XgWQHaHa&pid=Api&P=0&w=300&h=300",
+        "scores": [
+            3,
+            3,
+            1,
+            3,
+            5,
+            1,
+            2,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "Koumba",
+        "photo": "https://tse4.mm.bing.net/th?id=OIP.4JRB42oNjR2ifA152Hw8GgHaOG&pid=Api&P=0&w=300&h=300",
+        "scores": [
+            3,
+            3,
+            1,
+            3,
+            5,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "Nah",
+        "photo": "https://tse3.mm.bing.net/th?id=OIP.6pVOp_3HtijJSjGGHhSa7gHaLX&pid=Api&P=0&w=300&h=300",
+        "scores": [
+            5,
+            3,
+            1,
+            5,
+            5,
+            1,
+            2,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "Bella",
+        "photo": "https://tse3.mm.bing.net/th?id=OIP.6pVOp_3HtijJSjGGHhSa7gHaLX&pid=Api&P=0&w=300&h=300",
+        "scores": [
+            3,
+            3,
+            1,
+            3,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "Lucie",
+        "photo": "https://tse1.mm.bing.net/th?id=OIP.a2gHvtY9iQXIQYyrfkB5-AAAAA&pid=Api&P=0&w=300&h=300",
+        "scores": [
+            1,
+            1,
+            1,
+            3,
+            1,
+            1,
+            2,
+            1,
+            1,
+            1
+        ]
+    }
 
 ]
-
-
-//Export the data
-module.exports = friends;
