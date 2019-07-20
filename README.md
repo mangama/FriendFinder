@@ -7,6 +7,7 @@ The FriendFinder application is a full-stack site that basically works like a da
 ### Folders organization:
 
   FriendFinder
+
     - .gitignore
     - app
       - data
@@ -23,7 +24,7 @@ The FriendFinder application is a full-stack site that basically works like a da
 
 Deployment Link: https://nameless-thicket-50117.herokuapp.com/ 
 
-Link to portfolio: 
+Link to portfolio: https://mangama.github.io/Professional_Portfolio/
 
 
 
