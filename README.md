@@ -7,9 +7,8 @@ The FriendFinder application is a full-stack site that basically works like a da
 ### Folders organization:
 
   FriendFinder
-  
-    * - .gitignore
-    * - app
+    - .gitignore
+    - app
       - data
         - friends.js
       - public
