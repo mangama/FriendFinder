@@ -4,10 +4,11 @@
 
 The FriendFinder application is a full-stack site that basically works like a dating app. The application takes in results from your users' surveys, then compare their answers with those from other users. The app will then display the name and picture of the user with the best overall match.
 
-Folder organization:
+### Folders organization:
+
   FriendFinder
-    - .gitignore
-    - app
+    * - .gitignore
+    * - app
       - data
         - friends.js
       - public
